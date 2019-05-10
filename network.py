@@ -1,7 +1,7 @@
 import sys, os, time, imageio
 import numpy as np
 import math, random
-from dataset import X,Y
+#from dataset import X,Y
 
 images_dict = [
 	'circle',
